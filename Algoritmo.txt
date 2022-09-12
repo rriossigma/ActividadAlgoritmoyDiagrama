@@ -1,0 +1,7 @@
+algoritmo para contratar servicios de un proveedor
+
+1. Se tiene un problema que se le requiere dar una solucion
+2. Se contacta al proveedor
+3. Se ven los requerimientos que se alinien a nuestra empresa
+4. Se verifica que el proveedor cuente con los requerimientos necesarios
+5. Si cuentan con estos, se contrata al proveedor
